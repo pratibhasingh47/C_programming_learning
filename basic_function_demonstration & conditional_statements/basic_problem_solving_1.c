@@ -1,3 +1,5 @@
+//WAP to find the greatest among the three given numbers.
+
 #include <stdio.h>
 int main()
 {
