@@ -1,3 +1,5 @@
+// Write a program to print unit digit of a given number [Hint: Use of modulus operator]
+
 #include <stdio.h>
 int main()
 {
