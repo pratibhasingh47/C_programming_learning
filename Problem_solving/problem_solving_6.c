@@ -1,3 +1,5 @@
+//WAP to check whether a triangle is valid or not if sides are given.
+
 #include<stdio.h>
 int main()
 {
