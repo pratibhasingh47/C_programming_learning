@@ -1,5 +1,4 @@
 // Write a program to swap values of two int variables . For example if a=5 and b=10, then output should be: a= 10 and b=5.
-
 #include <stdio.h>
 int main()
 {
