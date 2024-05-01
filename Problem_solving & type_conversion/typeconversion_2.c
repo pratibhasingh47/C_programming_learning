@@ -1,11 +1,11 @@
-#include<stdio.h>
+#include <stdio.h>
 int main()
 {
     int i;
     float f;
     printf("Testing of various arithmatic operations\n");
-    i=5.0/2;
-    f=5.0/2;
-    printf("\nvalue of integer i is %d",i);
-    printf("\nvalue of float f is %f",f);
+    i = 5.0 / 2;
+    f = 5.0 / 2;
+    printf("\nvalue of integer i is %d", i);
+    printf("\nvalue of float f is %f", f);
 }
