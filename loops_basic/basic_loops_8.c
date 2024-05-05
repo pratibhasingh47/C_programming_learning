@@ -1,14 +1,12 @@
-#include<stdio.h>
+#include <stdio.h>
 int main()
 {
-    int x=20,i;
-    for ( i = 1; i <=x; i++)
+    int x = 20, i;
+    for (i = 1; i <= x; i++)
     {
-        if (i%2 != 0)
+        if (i % 2 != 0)
         {
-            printf("%d\n",i);
+            printf("%d\n", i);
         }
-        
     }
-    
 }
