@@ -1,3 +1,5 @@
+// WAP to print table of 2.
+
 #include <stdio.h>
 int main()
 {

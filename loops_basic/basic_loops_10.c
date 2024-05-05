@@ -1,3 +1,5 @@
+//WAP to print first 10 even natural numbers.
+
 #include <stdio.h>
 int main()
 {
