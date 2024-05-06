@@ -1,5 +1,4 @@
-//WAP to print first 10 odd natural numbers.
-
+// WAP to print first 10 odd natural numbers.
 
 #include <stdio.h>
 int main()
