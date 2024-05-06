@@ -1,3 +1,5 @@
+//WAP to print first 10 odd natural numbers in reverse order
+
 #include <stdio.h>
 int main()
 {
