@@ -1,3 +1,5 @@
+//WAP to print ‘10’ natural numbers in reverse order.
+
 #include <stdio.h>
 int main()
 {
