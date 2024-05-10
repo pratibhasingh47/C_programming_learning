@@ -1,3 +1,5 @@
+//WAP to print square of first 10 natural numbers.
+
 #include <stdio.h>
 int main()
 {
