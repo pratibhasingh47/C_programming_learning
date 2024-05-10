@@ -1,3 +1,10 @@
+/*Write a menu driven program with the following options: 
+Check whether a given set of three numbers are lengths of an isosceles triangle or not 
+Check whether a given set of three numbers are lengths of sides of a right angled triangle or not 
+Check whether a given set of three numbers are equilateral triangle or not 
+Exit */
+
+
 #include <stdio.h>
 int main()
 {
