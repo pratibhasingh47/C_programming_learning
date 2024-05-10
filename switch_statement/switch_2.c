@@ -1,3 +1,10 @@
+// Write a menu driven program with the following options:
+// Addition
+// Subtraction
+// Multiplication
+// Division
+// Exit
+
 #include <stdio.h>
 int main()
 {
