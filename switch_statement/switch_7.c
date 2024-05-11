@@ -1,3 +1,5 @@
+//Program to check whether a year is a leap year or not. Using switch statement 
+
 #include <stdio.h>
 int main()
 {
