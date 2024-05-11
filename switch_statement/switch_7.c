@@ -1,22 +1,23 @@
-#include<stdio.h>
+#include <stdio.h>
 int main()
 {
-    char x ='N';
+    char x = 'N';
     switch (x)
     {
-    case 'N':{
+    case 'N':
+    {
         printf("Enter the year\n");
         int z;
-        scanf("%d",&z);
-        if (z%4==0)
+        scanf("%d", &z);
+        if (z % 4 == 0)
         {
             printf("LEAP YEAR");
         }
-        else{
+        else
+        {
             printf("NOT A LEAP YEAR");
         }
         break;
     }
-   
     }
 }
