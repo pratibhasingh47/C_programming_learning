@@ -1,4 +1,4 @@
-# C Programming Learning Path
+# C Programming Learning Path 💻👩‍💻
 
 This is my understanding of C programing by solving simple & basic question related to variable declaration , basic operations , type-conversion , function-demonstration , conditional statement , switch statement , loops (while, do-while, for).
 
